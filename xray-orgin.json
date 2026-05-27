@@ -1,8 +1,8 @@
 {
   "skull": {
     "AP_PA": {
-      "reference": "https://ce4rt.com/wp-content/uploads/Sinuses-Face-PA-2.jpg",
-      "xray": "https://www.clinicalanatomy.ca/radiology/head/skull.png"
+      "reference": "https://raw.githubusercontent.com/xray-blue/xrayfordrrafal/main/images/Sinuses-Face-PA-2.jpg",
+      "xray": "https://raw.githubusercontent.com/xray-blue/xrayfordrrafal/main/images/a1c1be7c45cd57d3e0119254de41b3_big_gallery.jpg"
     },
     "lateral": {
       "reference": "images/skull/lateral_real.jpg",
